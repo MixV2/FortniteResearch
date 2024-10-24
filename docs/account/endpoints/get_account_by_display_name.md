@@ -8,4 +8,4 @@ Returns sensitive information if you are the owner of the account (like email ad
 | https://account-public-service-prod.ol.epicgames.com/account/api/public/account/displayName/{displayName} | `GET` |
 
 ## Parameters
-- `displayName`: target account display name
+- `displayName`: target account display name (e.g `Ninja` or `JawsChamp`)
