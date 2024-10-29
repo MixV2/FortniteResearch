@@ -9,5 +9,5 @@ If you want to get the Account ID from Display Name then follow [this](https://g
 | https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/{accountId}/friends/{FriendID} | `POST` |
 
 ## Parameters
-- `accountId`: Account you are adding the friend from duh.
-- `FriendID`: Account you are adding.
+- `accountId`: Your account ID
+- `FriendID`: Account you are adding (The Account ID you are adding)
